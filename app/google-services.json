@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "962171657549",
+    "firebase_url": "https://shoesappnikee-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "shoesappnikee",
+    "storage_bucket": "shoesappnikee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962171657549:android:925fbe9055bdaf28f86b04",
+        "android_client_info": {
+          "package_name": "newprojectc.example.shoesapp_nikee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBloMMwBxMD8cNaNWUbKHqp5lfVKbIMwio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
